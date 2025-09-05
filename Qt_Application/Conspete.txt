@@ -1,0 +1,19 @@
+Application : 
+Sur cette app je veux avoir des bouton qui sont clicable quand nous clicon sur le bouton nous allons ouvrit 
+les page associer a ce bouton
+
+1 Bouton (Projet Snake) : 
+- Code Snake
+- opera ou firefox
+- terminal au niveaux de snake
+
+2 Bouton (Rb) : 
+- dossier Rb
+- code RB C++
+- Android Studio code RB
+- Android Studio code test
+- firefox
+- terminal au niveaux de RB
+
+3 Bouton (Spotify) : 
+- Spotify place le selon l'endroit que de travaille
